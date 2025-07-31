@@ -242,8 +242,7 @@ When a driver starts their shift, their live location is shared with students in
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/real-time-bus-tracking-system.git
-cd bus_tracking_system
+git clone https://github.com/ATIFSHAH159/Real-Time-Bus-Tracking-System.git
 
 # Install dependencies
 flutter pub get
