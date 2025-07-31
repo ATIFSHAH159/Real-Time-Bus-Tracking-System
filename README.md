@@ -436,5 +436,3 @@ For queries, contact [aatifshah15@gmail.com](mailto:aatifshah15@gmail.com)
 ## 🏷️ Topics
 
 flutter, firebase, realtime, bus-tracking, google-maps, notifications
-#   R e a l - T i m e - B u s - T r a c k i n g - S y s t e m  
- 
