@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "20835456405",
+    "firebase_url": "https://rtbts-74160-default-rtdb.firebaseio.com",
+    "project_id": "rtbts-74160",
+    "storage_bucket": "rtbts-74160.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20835456405:android:4fee7fba0087bb5b0b129c",
+        "android_client_info": {
+          "package_name": "com.app.bus_tracking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnNBPs6HUge7mdLplVJosfXA-f0dJMCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20835456405:android:399079eee76b44920b129c",
+        "android_client_info": {
+          "package_name": "com.app.tracking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnNBPs6HUge7mdLplVJosfXA-f0dJMCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20835456405:android:e302266228595e9b0b129c",
+        "android_client_info": {
+          "package_name": "com.example.tracking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHnNBPs6HUge7mdLplVJosfXA-f0dJMCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
